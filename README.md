@@ -14,6 +14,7 @@ Creating my own Charts for Grafana
 
 ---
 
+
 ### I will be making 4 types of basic charts
 
   1) Gauge - Number of running kubernetes Nodes
