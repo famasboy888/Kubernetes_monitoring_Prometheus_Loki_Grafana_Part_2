@@ -52,6 +52,7 @@ This is the query you will need.
    <img src="https://github.com/famasboy888/Kubernetes_monitoring_Prometheus_Loki_Grafana_Part_2/assets/23441168/9cf13a21-1f81-43d0-afc4-a4054c9a8454" width="70%" height="70%"/>
 </div>
 
-You will need to customize these charts according to your needs.
+
+#### You will need to customize these charts according to your needs.
 
 
