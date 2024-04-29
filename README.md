@@ -29,7 +29,7 @@ This is the query you will need.
 </div>
 
 
-#### 1) Gauge - Number of running kubernetes Nodes
+#### 2) Time Series - Activity of CPU per Nodes
 This is the query you will need.
 
 <div align="left">
@@ -37,7 +37,7 @@ This is the query you will need.
 </div>
 
 
-#### 3) Gauge - Number of running kubernetes Nodes
+#### 3) Stat - Number of running Containers
 This is the query you will need.
 
 <div align="left">
@@ -45,7 +45,7 @@ This is the query you will need.
 </div>
 
 
-#### 3) Gauge - Number of running kubernetes Nodes
+#### 4) Logs - Web application running logs
 This is the query you will need.
 
 <div align="left">
